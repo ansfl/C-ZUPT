@@ -7,7 +7,7 @@ The increasing adoption of autonomous systems highlights the need for drift-resi
 However, traditional ZUPTs rely on nonholonomic constraints, restricting their use to surface-bound platforms and making them unsuitable for aerial vehicles, where precise **hovering** is often essential.
 
 &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; 
-<img src="https://github.com/Daniboy370/C-ZUPT/blob/main/data/GIF-Bird-2.gif?raw=true" width="700" class='center'/>
+<img ansfl width="700" class='center'/>
 
 This work presents a novel controlled extension, C-ZUPT, supported by LQG control, specifically designed for aerial platforms. By defining an acceptable uncertainty tolerance, C-ZUPT identifies quasi-static equilibria to provide precise velocity updates to the estimation filter. Extensive validation demonstrates that these opportunistic, high-quality updates significantly reduce INS drift and control effort. As a result, C-ZUPT minimizes filter divergence and enhances platform stability, leading to reduced energy consumption and longer hover durations—key benefits for resource-constrained aerial systems.
 
