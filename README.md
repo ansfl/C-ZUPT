@@ -71,7 +71,7 @@ The authors would appreciate users giving stars to this repository and citing ou
 @article{engelsman2025CZUPT,
   title={C-ZUPT: Stationarity-Aided Aerial Hovering},
   author={Engelsman, Daniel and Klein, Itzik},
-  journal={arXiv preprint arXiv:2503.18926},
+  journal={arXiv preprint arXiv:2507.09344},
   year={2025}
 }
 ```
