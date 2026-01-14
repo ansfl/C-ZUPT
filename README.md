@@ -74,7 +74,8 @@ The authors would appreciate users giving stars to this repository and citing ou
   title={C-ZUPT: Stationarity-Aided Aerial Hovering}, 
   year={2026},
   pages={1-15},
-  doi={10.1109/TAES.2025.3650499}}
+  doi={10.1109/TAES.2025.3650499}
+}
 ```
 
 [<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ArXiv_web.svg/250px-ArXiv_web.svg.png width=70/>](https://arxiv.org/abs/2507.09344)
