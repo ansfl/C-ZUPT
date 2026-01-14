@@ -68,12 +68,13 @@ File | Purpose
 
 The authors would appreciate users giving stars to this repository and citing our article as follows:
 ```
-@article{engelsman2025c,
-  title={C-ZUPT: Stationarity-Aided Aerial Hovering},
+@ARTICLE{11328808,
   author={Engelsman, Daniel and Klein, Itzik},
-  journal={arXiv preprint arXiv:2507.09344},
-  year={2025}
-}
+  journal={IEEE Transactions on Aerospace and Electronic Systems}, 
+  title={C-ZUPT: Stationarity-Aided Aerial Hovering}, 
+  year={2026},
+  pages={1-15},
+  doi={10.1109/TAES.2025.3650499}}
 ```
 
 [<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ArXiv_web.svg/250px-ArXiv_web.svg.png width=70/>](https://arxiv.org/abs/2507.09344)
